@@ -6,13 +6,13 @@ As a passionate of Technology and Free and Open Source Software, I work on sever
 
 ![Pinguim Investidor Logo](/static/pinvest_logo.png)
 
-Website: <https://pinguiminvestidor.com>
+Website: <https://pinguiminvestidor.home.blog>
 
 *Pinguim Investidor* (Portuguese for "the penguin investor") is my personal development, finance and investments blog. I empower my readers on how anyone can turn around their money situation and traverse the path towards their own financial prosperity with simple, reproducible steps. The blog is intended primarily for Brazilian audiences, as it contains investment information specific to the Brazilian markets, and is written in Portuguese.
 
 My book [*RICAmente*](https://www.amazon.com/RICAmente-Virando-jogo-financeiro-Portuguese-ebook/dp/B088FXT166), an enhancement to the contents of the site, was published on May 2020.
 
-In addition to the personal finance and investment sections, Pinguim Investidor also presents a good chunk of personal development tips, ranging from practical applications and nuggets of knowledge to the applied philosophy of [*Stoicism*](https://pinguiminvestidor.com/tag/estoicismo/). It's my belief that your financial performance goes hand in hand with your life choices, so there's no way to separate the two.
+In addition to the personal finance and investment sections, Pinguim Investidor also presents a good chunk of personal development tips, ranging from practical applications and nuggets of knowledge to the applied philosophy of [*Stoicism*](https://pinguiminvestidor.home.blog/tag/estoicismo/). It's my belief that your financial performance goes hand in hand with your life choices, so there's no way to separate the two.
 
 Pinguim Investidor is also available as a [Podcast](https://open.spotify.com/show/5aLTweIhAaRpAmoiq5Ttc3) and a [YouTube Channel](https://www.youtube.com/channel/UCnnB4CXK2xjpU7MUpWe7VLQ).
 
