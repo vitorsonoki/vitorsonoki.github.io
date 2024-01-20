@@ -1,20 +1,43 @@
 /* Styles for Vitor Sonoki's page */
 
+/* Consistent, lightweight fonting, please... */
+@font-face {
+    font-family: "PT Sans";
+    src: url("/static/PTSans-Bold.ttf") format("truetype");
+}
+
+@font-face {
+    font-family: "Libre Baskerville";
+    src: url("/static/LibreBaskerville-Regular.ttf") format("truetype");
+}
+
 html {
     background: #F9F7EE;
 }
 
 body {
-    font-family: "Liberation Serif", "Times New Roman", "Garamond", serif;
+    font-family: "Libre Baskerville", "Liberation Serif", "Times New Roman", "Garamond", serif;
     background: #FBEACA;
-    font-size: 1.4em;
+    font-size: 1.0em;
     padding: 0;
     margin: 0;
     color: #1A0F02;
 }
 
+body p, body li, body blockquote {
+    line-height: 1.5em;
+}
+
 h1, h2, h3, h4 {
-    font-family: "Helvetica", "Arial", sans-serif;
+    font-family: "PT Sans", "Helvetica", "Arial", sans-serif;
+}
+
+section#main h1 {
+    font-size: 2.3em;
+}
+
+section#main h2 {
+    font-size: 2em;
 }
 
 a {
@@ -29,14 +52,15 @@ a:hover {
 
 header {
     background: #F9F7EE;
-    font-size: 1.1em;
+    font-size: 1.2em;
     margin: 0;
     text-align: center;
 }
 
 header h1 {
     margin-top: 0;
-    padding-top: 1em;
+    font-size: 3em;
+    padding-top: 0.5em;
 }
 
 nav ul {
@@ -75,7 +99,19 @@ section#main img {
         margin: 1em;
     }
     body {
-        font-size: 1.3em;
+        font-size: 1.0em;
+    }
+
+    header h1 {
+        font-size: 2.5em;
+    }
+
+    section#main h1 {
+        font-size: 2em;
+    }
+
+    section#main h2 {
+        font-size: 1.7em;
     }
 }
 
