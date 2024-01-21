@@ -50,6 +50,12 @@ a:hover {
     text-decoration: underline;
 }
 
+code {
+    background: #f9eded;
+    color: #f00;
+    padding: 0.2em;
+}
+
 header {
     background: #F9F7EE;
     font-size: 1.2em;
