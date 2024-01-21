@@ -71,7 +71,13 @@ def convert(page, targetdir, is_article=False):
 
     # Get the "URL Fragment" to make a canonical link:
     urlpath = fd.split('/')
-    url = "/".join(urlpath[urlpath.index('vitorsonoki')+1:-1])
+
+    # I sometimes shorten the git repo to a different name. Let's store
+    # that in a variable so we get no errors. What's the name of this very
+    # directory we're in?
+    repo_dir = os.path.realpath('.').split('/')[-1]
+
+    url = "/".join(urlpath[urlpath.index(repo_dir)+1:-1])
     TEMPLATE_CONTENTS['canonical'] = SITEROOT + url
 
     if DEBUG:
