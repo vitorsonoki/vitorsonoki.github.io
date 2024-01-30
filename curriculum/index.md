@@ -8,10 +8,10 @@ This page contains my professional history as well as a display of all my techni
 
 ## Past employment
 
- - 2018 ~ 2021: [**Tokyo 2020 Organizing Committee**](https://tokyo2020.jp). Venue Technology Manager of the Saitama Super Arena (Basketball venue).
- - 2017 ~ 2018: [**Pyeongchang 2018 Winter Games Organizing Committee**](https://pyeongchang2018.com). Venue Technology Manager of Gangneung Olympic Village.
- - 2017: **Trust Systems Engineering**: Manager of the PMO.
- - 2014 ~ 2016: [**Rio 2016 Organizing Committee**](https://rio2016.com). Change Control Duty Manager.
+ - 2018 ~ 2021: [**Tokyo 2020 Organizing Committee**](/curriculum/tokyo2020/). Venue Technology Manager of the Saitama Super Arena (Basketball venue).
+ - 2017 ~ 2018: [**Pyeongchang 2018 Winter Games Organizing Committee**](/curriculum/pyeongchang2018/). Venue Technology Manager of Gangneung Olympic Village.
+ - 2017: [**Trust Systems Engineering**](/curriculum/trustengineering/): Manager of the PMO.
+ - 2014 ~ 2016: [**Rio 2016 Organizing Committee**](/curriculum/rio2016/): Change Control Duty Manager.
  - 2012 ~ 2014: [**Estaleiro Enseada do Paraguaçu**](http://enseada.com). IT Systems Analyst.
  - 2011: **AutoGraf Projetos e Construção**. Engineering Intern.
 
@@ -39,13 +39,15 @@ Experience with **systems administration** in the following platforms:
 
  - GNU/Linux:
     - Debian
+    - Alpine Linux
     - Ubuntu
     - Arch Linux
-
-And, more recently:
-
  - BSD:
     - FreeBSD
+
+Single-board computer set up and administration:
+
+ - Raspberry Pi (model B, 4, 4B)
 
 Skills in the following **programming languages**:
 
