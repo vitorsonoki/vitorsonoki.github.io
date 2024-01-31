@@ -5,6 +5,7 @@
 ## Company profile
 
  - **Business areas**: Events, Sports, Organizing committee of the Olympic Games.
+ - **Location:** Tokyo, Japan
  - **Website:** <https://www.tokyo2020.jp>
 
 ## Employment duration
@@ -13,8 +14,8 @@ June 2018 to September 2021
 
 ## Positions held
 
- - Venue Technology Manager: Saitama Super Arena (Basketball)
- - Venue Technology planning lead: Olympic Village (Harumi)
+ - Venue Technology Manager: Saitama Super Arena (Basketball) - 2021
+ - Venue Technology planning lead: Olympic Village - 2018~2020
 
 ## Highlights
 

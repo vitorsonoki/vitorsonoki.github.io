@@ -5,6 +5,7 @@
 ## Company profile
 
  - **Business areas**: Events, Sports, Organizing committee of the Olympic Games.
+ - **Location:** Gangneung, Republic of Korea
  - **Website:** [Pyeongchang2018.com](https://web.archive.org/web/20180331232540/https://www.pyeongchang2018.com/en/index)
 
 ## Employment duration

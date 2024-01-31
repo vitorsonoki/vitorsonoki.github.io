@@ -12,7 +12,7 @@ This page contains my professional history as well as a display of all my techni
  - 2017 ~ 2018: [**Pyeongchang 2018 Winter Games Organizing Committee**](/curriculum/pyeongchang2018/). Venue Technology Manager of Gangneung Olympic Village.
  - 2017: [**Trust Systems Engineering**](/curriculum/trustengineering/): Manager of the PMO.
  - 2014 ~ 2016: [**Rio 2016 Organizing Committee**](/curriculum/rio2016/): Change Control Duty Manager.
- - 2012 ~ 2014: [**Estaleiro Enseada do Paraguaçu**](http://enseada.com). IT Systems Analyst.
+ - 2012 ~ 2014: [**Estaleiro Enseada do Paraguaçu**](/curriculum/enseada/). IT Systems Analyst.
  - 2011: **AutoGraf Projetos e Construção**. Engineering Intern.
 
 ## Technical and professional skills
