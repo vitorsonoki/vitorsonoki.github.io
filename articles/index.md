@@ -6,4 +6,4 @@ Carefully check the date of publication of these essays, especially those concer
 
 All opinions in these essays are my own and do not reflect in any form the opinion of my former or current employer.
 
- - Currently no essays published... yet `;)`
+ - [Ten years working at the Olympics](/articles/ten_years_working_olympics) - published Feb 3rd 2024
