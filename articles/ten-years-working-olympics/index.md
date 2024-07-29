@@ -1,10 +1,5 @@
 # Ten years working in the Olympics
 
-Outline:
-
- - I first started working in the Olympics business on Feb 3rd 2014.
- - Ten years and 3 Olympiads later, here's me looking forward to ten more!
-
 Today, February 3rd 2024, marks my 10th anniversary of working in the Olympic games.
 
 Having worked so many events and for so many years now, it would be easy to pass such a milestone in the midst of the rush to deliver [Paris 2024](https://www.paris2024.org), currently speeding down the road at 174 days to go. But over the past weeks, I had been watching as the last digit of the year turned from 3 to 4 to match the same one as the year I had started - 2014.
@@ -29,9 +24,17 @@ The last month to the Olympic opening ceremony probably can be described with on
 
 And then it happens. The day arrives, the hour arrives, and you realize you're finally on TV. A beautiful ceremony starts and, miraculously, this also marks the turning point in your workload. Once venues "turn the key" into full operations, the pressure gets shifted towards the Sports and operational teams, leaving the implementation teams more in the backseat. Your shift routine gradually turns from resolving problems to just monitoring things and the issues melt away. As one more seasoned individual told me during my first Games, you know your operations are going well when you have time to sit down, eat and have a long meal break. This is usually how it becomes after the ceremony, at least for the side of the implementation teams.
 
-And then it all comes back full circle at the Games' end. Time for the nostalgia, rose-colored lenses and - at the end of your mission - even some tears. All of that stress you previously faced in those years of project time, the blood, sweat and tears magically disappear and at the end of it all you're left with either one two feelings:
+And then it all comes back full circle at the Games' end. Time for the nostalgia, rose-colored lenses and - at the end of your mission - even some tears as you finally meet everyone of the project again for offboarding procedures with the HR department. All of that stress you previously faced in those years of project time, the blood, sweat and tears magically disappear and at the end of it all you're left with either one two feelings:
 
  1. The feeling of accomplishment, mission complete, and you finally are a free man again and may have the rest of champions. Or:
  2. The feeling of "ok, we got this one down. When is the next one starting?"
 
-And from #2, this is how the passion for the games is born.
+From #2, this is how the passion for the games is born. This is how you keep going back to the same "madness" that you've just escaped from. This is how people go "wow that was crazy. Where's the next?" in the travelling circus of the Olympic Games. And those stories and more will keep filling up more pages in the book of your career.
+
+That is, of course, after you take a *long*-deserved vacation from one end of event to the other...
+
+---
+
+Essay originally published February 3rd 2024.
+
+*Opinions are my own and do not necessarily reflect those of my current or former employers*
