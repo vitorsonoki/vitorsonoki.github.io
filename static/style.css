@@ -50,7 +50,7 @@ a:hover {
     text-decoration: underline;
 }
 
-code {
+p code, li code, blockquote code {
     background: #f9eded;
     color: #f00;
     padding: 0.2em;
@@ -97,6 +97,29 @@ section#main img {
     max-width: 90%;
     display: block;
     margin: auto;
+}
+
+section#main figcaption {
+    /* give it breathable space */
+    margin-top: 0.2em;
+    text-align: center;
+}
+
+blockquote {
+    border-left: 3px solid red;
+    padding: .5em 1em;
+    font-size: 1.1em;
+    background: #ffebec;
+}
+
+/* code for geeks */
+
+pre, li pre {
+    background: black;
+    color: white;
+    padding: 10px;
+    border-radius: 4px;
+    overflow-x: scroll;
 }
 
 /* mobile devices */
