@@ -1,4 +1,4 @@
-# Personal projects I'm working on
+# Personal projects I've worked, or am working on
 
 As a passionate of Technology and Free and Open Source Software, I work on several side projects during my free time. From creating websites, learning more about how things work and sharing my knowledge with my readers, I strive to keep **creating and providing value** to the world.
 

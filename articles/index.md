@@ -6,6 +6,7 @@ Carefully check the date of publication of these essays, especially those concer
 
 All opinions in these essays are my own and do not reflect in any form the opinion of my current or former employers.
 
+ - [Dissecting a French Letter-based scam](/articles/dissecting_french_letter_scam) - published Sep 3rd 2024
  - [Analyzing a post-Olympics Scam attempt](/articles/post_olympics_scam_analysis) - published Aug 18th 2024
  - [Confronting your (and everyone else's) greatest fear](/articles/confronting_your_greatest_fear) - published Aug 12th 2024
  - [Ten years working at the Olympics](/articles/ten_years_working_olympics) - published Feb 3rd 2024
