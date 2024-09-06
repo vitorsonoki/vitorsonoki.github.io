@@ -11,6 +11,11 @@
     src: url("/static/LibreBaskerville-Regular.ttf") format("truetype");
 }
 
+@font-face {
+    font-family: "Libre Baskerville Bold";
+    src: url("/static/LibreBaskerville-Bold.ttf") format("truetype");
+}
+
 html {
     background: #F9F7EE;
 }
@@ -25,7 +30,7 @@ body {
 }
 
 body p, body li, body blockquote {
-    line-height: 1.5em;
+    line-height: 1.7em;
 }
 
 h1, h2, h3, h4 {
@@ -120,6 +125,11 @@ pre, li pre {
     padding: 10px;
     border-radius: 4px;
     overflow-x: scroll;
+}
+
+/* so bold text looks better */
+strong {
+    font-family: "Libre Baskerville Bold", "Libre Baskerville";
 }
 
 /* mobile devices */

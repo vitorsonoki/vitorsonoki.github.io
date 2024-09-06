@@ -4,7 +4,7 @@ This page contains my professional history as well as a display of all my techni
 
 ## Current position 
 
- - [**Organizing Committee for the Olympic and Paralympic Games of Paris 2024**](https://paris2024.org). Technology Manager of the Paris-West Cluster.
+ - [**Organizing Committee for the Olympic and Paralympic Games of Paris 2024**](/curriculum/paris2024/). Technology Manager of the Paris-West Cluster.
 
 ## Past employment
 
