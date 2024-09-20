@@ -65,7 +65,9 @@ If these by now *still* have not raised multiple red flags for you, though, fret
 
 # The platform
 
-> **Disclaimer:** do NOT attempt the procedure below unless you are versed in forensics or IT Security and know how browsers and exploits work.
+<blockquote class="warning">
+    <strong>Disclaimer:</strong> do NOT attempt the procedure below unless you are versed in forensics or IT Security and know how browsers and exploits work.
+</blockquote>
 
 After we put on a digital condom (a sandboxed browser, virtual machine or a text-only browser with no javascript plus a proxy), we can finally visit how this `olympicsvipshop [.] com` website and see it for ourselves what it really is about. What horrors lie beyond that crappy domain? Malware hosting? Exploits? Phishing site?
 

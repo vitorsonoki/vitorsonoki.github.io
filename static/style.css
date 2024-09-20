@@ -111,6 +111,13 @@ section#main figcaption {
 }
 
 blockquote {
+    border-left: 3px solid #0572f4;
+    padding: .5em 1em;
+    font-size: 1.1em;
+    background: #f2fcfa;
+}
+
+blockquote.warning {
     border-left: 3px solid red;
     padding: .5em 1em;
     font-size: 1.1em;

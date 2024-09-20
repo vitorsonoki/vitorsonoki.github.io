@@ -2,6 +2,8 @@
 
 This page contains my professional history as well as a display of all my technical skills. It reads as a CV - as it should - but if you'd prefer a PDF version, just [get in touch with me](/contact).
 
+See also [praise and recommendation for Vitor Sonoki](/curriculum/praise).
+
 ## Current position 
 
  - [**Organizing Committee for the Olympic and Paralympic Games of Paris 2024**](/curriculum/paris2024/). Technology Manager of the Paris-West Cluster.
