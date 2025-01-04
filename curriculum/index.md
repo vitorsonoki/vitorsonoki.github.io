@@ -4,12 +4,13 @@ This page contains my professional history as well as a display of all my techni
 
 See also [praise and recommendation for Vitor Sonoki](/curriculum/praise).
 
-## Current position 
+## Current
 
- - [**Organizing Committee for the Olympic and Paralympic Games of Paris 2024**](/curriculum/paris2024/). Technology Manager of the Paris-West Cluster.
+ - Linux and Open Source technology deployment consultant (independent)
 
 ## Past employment
 
+ - 2022 ~ 2024: [**Paris 2024 Organizing Committee**](/curriculum/paris2024/). Technology Manager of the Paris-West Cluster.
  - 2018 ~ 2021: [**Tokyo 2020 Organizing Committee**](/curriculum/tokyo2020/). Venue Technology Manager of the Saitama Super Arena (Basketball venue).
  - 2017 ~ 2018: [**Pyeongchang 2018 Winter Games Organizing Committee**](/curriculum/pyeongchang2018/). Venue Technology Manager of Gangneung Olympic Village.
  - 2017: [**Trust Systems Engineering**](/curriculum/trustengineering/): Manager of the PMO.
