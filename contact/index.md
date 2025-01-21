@@ -6,6 +6,6 @@ You can also send me [encrypted email](https://gnupg.org/) with my PGP key: `50A
 
 I am a big fan of *decentralized communication platforms*, and I'm especially fond of the [XMPP protocol](https://xmpp.org/), formerly known as Jabber. It's instant messaging a-la Signal, except that's decentralized, and anyone can host a node. Get in touch with me at `vesonoki _AT_ yax.im` (place the `@` where appropriate) from your favorite client. Don't have one? Try the online one from [ConverseJS](https://conversejs.org/fullscreen.html).
 
-Additionally, reach out to me on [Github](https://github.com/vitorsonoki) or [LinkedIn](https://www.linkedin.com/in/vitor-sonoki-064375348/).
+Additionally, reach out to me on [Github](https://github.com/vitorsonoki) or [LinkedIn](https://www.linkedin.com/in/vitorsonoki).
 
 I'm looking forward to hearing from you!
