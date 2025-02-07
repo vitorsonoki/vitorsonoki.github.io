@@ -94,3 +94,7 @@ Publishing a book using only Free Software today not only is possible, but it al
 I don't know if my next book will be a technical one, but I can bet that this workflow will be repeated. And any new improvements I find in the next adventure, I'll be sure to post them back here again.
 
 Finally, I hope this post has inspired you to publish your next book. We need more people sharing their knowledge of Linux and Free Software. It all starts with ourselves.
+
+----
+
+*Opinions are my own and do not necessarily reflect those of my current or former employers*
