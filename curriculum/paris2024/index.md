@@ -5,7 +5,7 @@
 ## Company profile
 
  - **Business areas**: Events, Sports, Organizing committee of the Olympic Games.
- - **Location:** Aubervilliers, Île-de-France, France
+ - **Location:** Saint-Denis, Île-de-France, France
  - **Website:** <https://paris2024.org>
 
 ## Employment duration

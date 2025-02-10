@@ -1,14 +1,16 @@
-# Professional Experience
+# Professional Experience and Curriculum
 
-This page contains my professional history as well as a display of all my technical skills. It reads as a CV - as it should - but if you'd prefer a PDF version, just [get in touch with me](/contact).
+This page contains my professional history as well as a display of all my technical skills and accomplishments. It reads as a CV - as it should - but if you'd prefer a PDF version, just [get in touch with me](/contact).
 
 See also [praise and recommendation for Vitor Sonoki](/curriculum/praise).
 
-## Current
+## Current employment
 
  - Linux and Open Source technology deployment consultant (independent)
 
 ## Past employment
+
+Click below for more information regarding each mission I undertook in the past.
 
  - 2022 ~ 2024: [**Paris 2024 Organizing Committee**](/curriculum/paris2024/). Technology Manager of the Paris-West Cluster.
  - 2018 ~ 2021: [**Tokyo 2020 Organizing Committee**](/curriculum/tokyo2020/). Venue Technology Manager of the Saitama Super Arena (Basketball venue).
@@ -45,6 +47,7 @@ Experience with **systems administration** in the following platforms:
     - Alpine Linux
     - Ubuntu
     - Arch Linux
+    - Fedora
  - BSD:
     - FreeBSD
 
@@ -72,3 +75,9 @@ Miscellaneous computer skills:
  - Microsoft Sharepoint Site Collection Administration (MS course 50547B) (Apr 2013)
  - Microsoft Sharepoint Sandboxed Solutions Development (MS course 10175B) (Apr 2013)
  - Scrum and Agile Development methodology course, ministered by UFRJ (Federal University of Rio de Janeiro) (March 2013)
+
+## Personal Achievements outside of Professional Life
+
+ - Published [two books](/publications) with Amazon Publishing. The first, published March 2020, focuses on the [subject of Personal Finance and Investing](/publications#ricamente). The second, published February 2025, is a [technical introduction to the Linux Command-line Shell (Bash)](/publications#terminal).
+ - Hosted a two-year long podcast discussing aspects of personal finance and investments (branch of ["Pinguim Investidor"](/projects#pinguiminvestidor)), collaborating with other finance writers of Brazil.
+ - I'm an avid artistical expression lover. I play the guitar, have sung in a Choir (baritone), and can juggle 5 balls, having juggled to an audience three times.

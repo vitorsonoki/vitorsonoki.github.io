@@ -2,7 +2,7 @@
 
 As a passionate of Technology and Free and Open Source Software, I work on several side projects during my free time. From creating websites, learning more about how things work and sharing my knowledge with my readers, I strive to keep **creating and providing value** to the world.
 
-## Pinguim Investidor
+<h2 id="pinguiminvestidor">Pinguim Investidor</h2>
 
 ![Pinguim Investidor Logo](/static/pinvest_logo.png)
 
@@ -11,12 +11,11 @@ Website: <https://pinguiminvestidor.home.blog>
 *Pinguim Investidor* (Portuguese for "the penguin investor") is my personal development, finance and investments blog. I empower my readers on how anyone can turn around their money situation and traverse the path towards their own financial prosperity with simple, reproducible steps. The blog is intended primarily for Brazilian audiences, as it contains investment information specific to the Brazilian markets, and is written in Portuguese.
 
 My book [*RICAmente*](https://www.amazon.com/RICAmente-Virando-jogo-financeiro-Portuguese-ebook/dp/B088FXT166), an enhancement to the contents of the site, was published on May 2020.
-
 In addition to the personal finance and investment sections, Pinguim Investidor also presents a good chunk of personal development tips, ranging from practical applications and nuggets of knowledge to the applied philosophy of [*Stoicism*](https://pinguiminvestidor.home.blog/tag/estoicismo/). It's my belief that your financial performance goes hand in hand with your life choices, so there's no way to separate the two.
 
 Pinguim Investidor is also available as a [Podcast](https://open.spotify.com/show/5aLTweIhAaRpAmoiq5Ttc3) and a [YouTube Channel](https://www.youtube.com/channel/UCnnB4CXK2xjpU7MUpWe7VLQ).
 
-## Raspberry Pi Brasil
+<h2 id="raspibrasil">Raspberry Pi Brasil</h2>
 
 ![Logo Raspberry Pi Brasil](/static/raspilogo.png)
 
@@ -26,7 +25,7 @@ Website: <https://raspibrasil.github.io>
 
 Raspberry Pi Brasil is published in Portuguese only at the moment, but I have plans to translate some articles myself to present a bilingual version of them. The blog's [RSS feed is published here](https://raspibrasil.github.io/atom.xml).
 
-## SiteGen
+<h2 id="sitegen">SiteGen</h2>
 
 ![Sitegen Logo](/static/sitegen_logo1.png)
 
@@ -40,19 +39,19 @@ The goals of Sitegen are to simplify and speed up the deployment of websites so 
 
 I have developed or maintained several websites for clients, employers or even past projects of myself along my career. The most recent ones (Maluzeando, Malu-sensei) were developed using the Sitegen engine mentioned above.
 
-### Maluzeando
+<h3 id="maluzeando">Maluzeando</h3>
 
 ![Maluzeando.com screenshot](/static/maluzeando.png)
 
 Personal website of [Malu Araújo](https://maluzeando.github.io), who specializes in Digital Art and hand Lettering - the art of making art with words and calligraphy.
 
-### Malu-sensei's English Class
+<h3 id="malusensei">Malu-sensei's English Class</h3>
 
 ![Malu-sensei screenshot](/static/malusensei.png)
 
 Learning a new language doesn't have to be boring or hard with focus on grammar, especially when you're a kid. [Malu makes learning English fun again](https://maluaraujoenglish.github.io) with focus on speaking and playful activities while encouraging children to use it like their native language.
 
-### Estaleiro Enseada do Paraguaçu S/A
+<h3 id="eepsa">Estaleiro Enseada do Paraguaçu S/A</h3>
 
 ![EEPSA screenshot](/static/eepsa.png)
 
@@ -60,7 +59,7 @@ I developed and maintained the [Estaleiro Enseada do Paraguaçu S/A](https://web
 
 Though a very slick-looking site with a modern air to it, and one of the few of its contemporaries to start using HTML5, in retrospect I can see it suffered from usability issues (Mobile devices?) and even some scope creep. Not very scalable either (adding new pages or news was a nightmare). I'm still pretty proud of the project, though, and it taught me lots of things about web development.
 
-### The ESL Students' corner
+<h3 id="esl">The ESL Students' corner</h3>
 
 ![ESL Students' Corner screenshot](/static/esl.png)
 
@@ -68,7 +67,7 @@ One of my first websites, launched 2012 back when jQuery was cool. During my bri
 
 I still consider myself a teacher at heart, and seeing the site still up after all these years is truly heartwarming.
 
-### ZenMP3 - a music downloader for Linux
+<h3 id="zenmp3">ZenMP3 - a music downloader for Linux</h3>
 
 ![ZenMP3 website screenshot](/static/zenmp3.png)
 
