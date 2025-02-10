@@ -1,6 +1,6 @@
 # Works published by Vitor Sonoki
 
-## Books
+<h2 id="books">Books</h2>
 
 So far, all my published works are in Portuguese only.
 
@@ -19,3 +19,9 @@ A hands-on, practical approach to financial education and independence. This boo
 Get it [here for the Amazon Kindle](https://www.amazon.com.br/dp/B088FXT166) (Amazon BR link) or the [standalone PDF/EPUB platform-independent versions](https://gumroad.com/l/IddvP).
 
 ![RICAmente book cover](/static/ricamente_logo.png)
+
+<h2 id="podcasts">Podcasts</h2>
+
+<h3 id="pinguiminvestidor">Podcast do Pinguim</h3>
+
+The podcast that complements [the blog of the same name](/projects#pinguiminvestidor). 62 episodes produced weekly between 2019 and 2021 discussing personal finance, investment strategies and personal development, uploaded to Anchor.fm.

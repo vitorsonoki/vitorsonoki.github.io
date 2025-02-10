@@ -29,11 +29,11 @@ Conversation-level or better:
  - English: C2.
  - Portuguese: C2.
  - Japanese: C1.
+ - French: B2
 
 "Survival" level:
 
- - French: B1
- - Spanish: B2
+ - Spanish: B1
  - Korean: A2
 
 These skill ratings are based on the [CEFR scale](https://en.wikipedia.org/wiki/Common_European_Framework_of_Reference_for_Languages).
