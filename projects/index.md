@@ -63,7 +63,7 @@ Though a very slick-looking site with a modern air to it, and one of the few of 
 
 ![ESL Students' Corner screenshot](/static/esl.png)
 
-One of my first websites, launched 2012 back when jQuery was cool. During my brief career as an English teacher, I hosted worksheets, some lessons and extra material from my classes on this website: [The ESL Students' Corner](https://eslstudentscorner.appspot.com/).
+One of my first websites, launched 2012 back when jQuery was cool. During my brief career as an English teacher, I hosted worksheets, some lessons and extra material from my classes on this website: [The ESL Students' Corner](https://web.archive.org/web/20160327163731/http://eslstudentscorner.appspot.com/home.html).
 
 I still consider myself a teacher at heart, and seeing the site still up after all these years is truly heartwarming.
 
@@ -73,7 +73,7 @@ I still consider myself a teacher at heart, and seeing the site still up after a
 
 A *very* simple frontend I wrote for the great [youtube-dl](https://yt-dl.org) program to make using it from a graphical environment nice and easy, especially for beginner users of Linux. Originally a shell script written for bash, I eventually ported it to Python2 and lots of platforms become more supported.
 
-As an added programming training bonus, I created a [single-page website](https://convertmusichere.appspot.com) with a clever domain name and some "slick" Javascript (helped by jQuery) to give its look a boost.
+As an added programming training bonus, I created a [single-page website](https://web.archive.org/web/20141218160536/http://convertmusichere.appspot.com/) with a clever domain name and some "slick" Javascript (helped by jQuery) to give its look a boost.
 
 ----
 
