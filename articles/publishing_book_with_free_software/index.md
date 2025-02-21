@@ -19,7 +19,7 @@ Let's recap.
 
 Unlike the previous book, which I wrote entirely with LibreOffice, this technical book was written exclusively in plain text with a text editor. This was preferred because of the abundance of code samples and other technical bits in the text, similar to those O'Reilly books. A word processor would be way more challenging to maintain, given the amount of terminal-formatted text.
 
-My choice of text editor was (and probably always will be) [Vim](https://www.vim.org). While I don't think there's anything "special" in using Vim specifically for this, it's terminal-native editor and integrates perfectly with the rest of this terminal-centric workflow. But by all means, you can use any plain text editor of your choice.
+My choice of text editor was (and probably always will be) [Vim](https://www.vim.org). While I don't think there's anything "unique" in using Vim specifically for this, it's nevertheless a terminal-native editor and integrates perfectly with the rest of this terminal-centric workflow. But by all means, you can use any plain text editor of your choice.
 
 Now of course we're writing a book with Vim, but what is the book made of? How are the words formatted and presented? My choice was to write the text formatted in [Markdown](https://daringfireball.net/projects/markdown/), a human-readable plaintext format that "compiles" to HTML. Markdown offers me a solid way to convey everything I need to write a technical book, like:
 
