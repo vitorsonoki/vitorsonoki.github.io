@@ -139,6 +139,15 @@ strong {
     font-family: "Libre Baskerville Bold", "Libre Baskerville";
 }
 
+/* Tables, jimmy! */
+body table {
+    width: 95%;
+}
+
+table td {
+    border: 1px solid black;
+}
+
 /* mobile devices */
 @media screen and (max-width: 600px) {
     section#main {

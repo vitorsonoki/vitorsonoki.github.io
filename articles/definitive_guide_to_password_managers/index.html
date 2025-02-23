@@ -1,0 +1,228 @@
+<!DOCTYPE html>
+<html lang="en-us">
+    <head>
+        <title>The Definitive guide to Password Managers - Vitor Sonoki</title>
+        <meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta name="description" content="The Definitive guide to Password Managers" />
+        <link rel="stylesheet" type="text/css" href="/static/style.css" />
+        <link rel="canonical" href="https://vitorsonoki.github.io/articles/definitive_guide_to_password_managers" />
+        <link rel="shortcut icon" type="image/x-icon" href="/static/favicon.ico" />
+    </head>
+    <body>
+        <header>
+            <img src="/static/glider.png" alt="Conway's glider" />
+            <h1>Vitor E. Sonoki</h1>
+            <h2>A Technologist passionate about Free Software</h2>
+            <nav>
+                <a href="/">Home</a>
+                <a href="/projects">Projects</a>
+                <a href="/articles">Articles</a>
+                <a href="/publications">Publications</a>
+                <a href="/curriculum">CV</a>
+                <a href="/contact">Contact</a>
+            </nav>
+        </header>
+        <section id="main">
+            <h1>The Definitive guide to Password Managers</h1>
+<p><img alt="digital safe" src="/static/safe.png" /></p>
+<p>If you use anything on the Internet today but don't know what a <a href="https://en.wikipedia.org/wiki/Password_manager">Password Manager</a> is or how to use one, stop right now and read this article until the end. If that's the case, the security of <em>all</em> your online accounts is at risk, and it's just a matter of time until an incident happens and compromises one or more of them - a question of <em>when</em>, not <em>if</em>. </p>
+<p>But it doesn't have to be like this. As pesky as your IT department's or some online platform's password policies may seem to be, dealing with passwords in a secure way doesn't have to be a burden or a hassle. In order to use so many online platforms securely, you should not even need to <em>think</em> about all these damn passwords associated with them. In fact, what if you could skip the handling of passwords from your online workflow altogether in a secure way, and just focus on the work what matters instead?</p>
+<p>If this sounds like a good idea to you, a Password Manager is <em>exactly</em> what you need to start using right now.</p>
+<p>This article is a comprehensive guide explaining everything you need to know about Password Managers, and how they make your online life much, much more secure. It begins with an explanation of how they work, the basic usage, and more advanced features are shown towards the end.</p>
+<h2>Contents:</h2>
+<ul>
+<li><a href="#how_work">How do password managers work?</a></li>
+<li><a href="#why">Why should I use a password manager?</a></li>
+<li><a href="#types">Types of password managers</a></li>
+<li><a href="#how_use">How to use a password manager</a></li>
+<li><a href="#what_else">What else can your password manager do for you?</a></li>
+</ul>
+<h2 id="how_work">How do password managers work?</h2>
+
+<p>A password manager in a simple sense is a <em>lockable digital vault</em>. </p>
+<p>You can store "secrets" like documents, valuables in a vault that you'd like to see later and lock it with a key that only you have. The security lies in having both the access to that vault and to its key at the same time - something that only you as the owner should have.</p>
+<p>In the case of the password manager, the vault is the application itself, and the key is the password you use to lock and unlock the vault. And the secrets are your online credentials, usually composed of a username and - you guessed it - password.</p>
+<p>Now even though the password manager can store a lot of different types of informations, sometimes even small files, it's optimized for storing <em>text</em>, which is exactly what passwords are.</p>
+<h2 id="why">Why should I use a password manager?</h2>
+
+<p>The main purpose of a Password Manager is to securely store and manage access credentials. These, in the online world, mean a pair of identifiers: username and password. In order to be considered secure, passwords must have a few qualities to them. For example:</p>
+<ul>
+<li>Resistant against guessing or "cracking" (the high-speed guessing of millions of passwords per minute done by hackers' through special computers).</li>
+<li>The longer, the better.</li>
+<li>Uniquely associated to a single use (no same password for two different accounts).</li>
+<li>Not recorded anywhere in the clear (no writing down passwords in your agenda, notebook, scrap of paper, text file on your computer, etc)</li>
+<li>Can be changed quickly and easily in case of issues (compromise, account reset or the good old "I forgot my password" moment)</li>
+</ul>
+<p>For example, this would be considered a bad (weak) password:</p>
+<pre><code>B@seball1
+</code></pre>
+<p>And this would be considered a pretty good (strong) password:</p>
+<pre><code>J?zx"ZOKS&lt;&amp;h8P~l$g&lt;[}B]2
+</code></pre>
+<p>The irony is that if you follow all of the best practices above literally, you'll end up with a useless setup: a super secure password... that you cannot by any human means memorize. And remember: you have to have a <em>different</em> strong password like this for every single account!</p>
+<p>So since memorizing won't work, why don't you store your super strong passwords in a secure location (not in the clear) and then simply <em>copy and paste them</em> when you need them? You'd not even have to type them out!</p>
+<p>This is where the Password Manager shines: a secure "vault" that you can deposit all your strong access credentials, access them when you need and lock it when not using it.</p>
+<p>In other words, a password manager is the <strong>only</strong> way for you to <strong>ensure that all your passwords are strong, unique - and usable</strong>.</p>
+<p>There's only one catch: you still need to lock the password manager when you're not using it and the usual of doing that is... with a password! However, if you store all your passwords in that vould <em>this "master" password is the only password you will ever need to remember</em>, since every other one will be inside of it. And even if you'd not like to use a password as the lock, there are passwordless alternatives, like using digital key files. </p>
+<h3>What can a password manager protect against?</h3>
+<p>Let's say that you don't use a password manager, but you do know a thing or two about password strength. You cleverly come up with what you think is a strong password, say:</p>
+<pre><code>Tr0mboner5lyf!
+</code></pre>
+<p>Since you don't want to think up any more unique passwords like that, you just keep using that password everywhere you need to create an account. After all, that <em>one</em> password is strong, right? And the websites where you use it will take care of their security too, right?</p>
+<p>Turns out one of the websites where you created an account, <code>jimsfunnyforums.com</code>, didn't do their security right. Hackers leaked its entire password database in a forum, and your password was included in the clear. Another hacker then picks your username and password from the list, and tries it in a more interesting (and serious) website, say, <code>gmail.com</code>.</p>
+<p>Since you used the exact username and password from <code>jimsfunnyforums,com</code>, the hacker now has complete access to your Gmail account, without having to do any "hacking". And this despite you having used a strong password in first place.</p>
+<p>This <a href="https://en.wikipedia.org/wiki/Credential_stuffing">attack</a>, which is <a href="https://haveibeenpwned.com/">commonplace in the web</a> these days, can be mitigated with a password manager, which ensures that only your <code>jimsfunnyforums.com</code> password would be compromised, and not any other. And you can easily change it after it was compromised with another strong password.</p>
+<h3>What does a password NOT protect against?</h3>
+<p>Password Managers are not a panacea, of course, and cannot help you in a few cases. For example:</p>
+<ul>
+<li>If malware is already present in your computer, and can spy, record or steal information from your password manager without your consent (for example: a <a href="https://en.wikipedia.org/wiki/Keystroke_logging">keylogger</a>). In other words, if your computer is already infected, a password manager will not protect you against that infection.</li>
+<li>If the website where you create your account has weak security, a password manager cannot fix <em>that</em> insecurity (you might consider <em>not</em> creating an account in such websites in first place).</li>
+<li>Last but not least, a password manager cannot supply you passwords when it's not running. For example, the boot password or disk encryption password of your laptop cannot be retrieved from a password manager because they are required before the password manager can be launched. This applies in other similar environments where the pasting of text is limited or not possible (though you can still type out the password char by char).</li>
+</ul>
+<h2 id="types">Choosing a password managers</h2>
+
+<p>There are quite a few choices in password manager software. They can be categorized in a variety of ways, which we'll look in detail now:</p>
+<h3 id="cloud">Cloud-based vs Local</h3>
+
+<p>Cloud-based password managers are essentially websites to which you log in through a browser with username and (hah!) password and then retrieve your credentials. Some may require you to log in only via their (more secured) application, but are essentially still just retrieving the data over the internet. </p>
+<p>Others, however, run locally in your computer and their vault is a file stored locally in your device. Those are Local password managers. You run them like you'd run any other program in your computer.</p>
+<p>Both of these solutions can be great for you depending on your workflow, and they both accomplish their goals of safeguarding your credentials. There are different pros and cons to either cloud-based or local password managers, however, so you should check them and see what fits better your working model:</p>
+<table>
+    <tr style="font-weight: bold">
+        <td>Type</td>
+        <td>Pros</td>
+        <td>Cons</td>
+    </tr>
+    <tr>
+        <td>Cloud-based</td>
+        <td>
+            <ul>
+                <li>No extra software required (in case of website-based solution).</li>
+                <li>Always have the "latest" credentials across every device you own (synchronized).</li>
+                <li>Some solutions can do offline caching, so sometimes you can still access your credentials when offline (provided you've accessed it recently)</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Requires an internet connection to work properly.</li>
+                <li>If the password manager's website gets hacked, all of your credentials are at risk (can't control their security).</li>
+                <li>You rely on your Web Browser's security to ensure your credentials are safe (web-based solutions).</li>
+                <li>As <a href="https://en.wikipedia.org/wiki/Software_as_a_service">SaaS</a>, it may not be fully Free Software.</li>
+            </ul>
+        </td>
+    </tr>
+    <tr>
+        <td>Local program</td>
+        <td>
+            <ul>
+                <li>Your credentials never leave your computer. You have full control over them.</li>
+                <li>100% functional even when offline.</li>
+                <li>Lightweight programs designed with security in mind. Almost all of them are <a href="https://www.gnu.org/philosophy/free-sw.en.html">Free Software</a>.</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Synchronizing the vault across multiple devices can get tricky about whos's got the latest version.</li>
+                <li>There may not be a version for your OS or platform.</li>
+                <li>If you lose the password vault file or it gets damaged or corrupted, your credentials are lost forever.</li>
+            </ul>
+        </td>
+    </tr>
+</table>
+
+<p>There is the security vs convenience debate involved in this choice, as well as a bit of risk management. You have to analyze which model would work for you, or, even better, try both out and see in practice which one do you prefer.</p>
+<p>I personally prefer <em>Local</em> password managers in my machines because it gives me full control over where and how my password database is used (including its security). I use the <a href="https://git-scm.com/">Git versioning system</a> to synchronize and backup the password database across my devices and, this way, avoid overwriting versions and entries as they pile up. Finally, there are versions for all the OSes I use, so I never had a problem of compatibility. But again, this is just my personal opinion, and may not work for you. </p>
+<p>Examples of Cloud-based password managers:</p>
+<ul>
+<li>BitWarden: <a href="https://bitwarden.com/">https://bitwarden.com/</a></li>
+<li>Some other Proprietary platforms.</li>
+</ul>
+<p>Examples of Local-based password managers:</p>
+<ul>
+<li>KeePassXC: <a href="https://keepassxc.org/">https://keepassxc.org/</a></li>
+<li>PasswordSafe: <a href="https://www.pwsafe.org">https://www.pwsafe.org</a></li>
+</ul>
+<h3 id="browser">Browser-based vs generic</h3>
+
+<p>Did you know that your <em>browser</em> itself is a password manager? </p>
+<p>That's right: most if not all modern browsers today offer you some sort of password management feature - they just don't call it by that name! </p>
+<p>For example, when Firefox or Chrome ask you to save a password, guess where they store it? In a password manager-style vault. And they stay protected in there until either you unlock them with a main password or other credentials.</p>
+<figure>
+    <img src="/static/ff_passwdm.jpg" alt="Password manager in Firefox" />
+    <figcaption>
+        Firefox comes with a password manager that offer to save your
+        passwords as you browse. 
+        You can also save additional passwords in it as you wish.
+    </figcaption>
+</figure>
+
+<p>Even with this great amount of convenience available, however, I would still prefer a <em>generic</em> password manager, independent of any browser, like the Local-based ones mentioned before. </p>
+<p>This is because I prefer to separate the duties of the programs I run, much like the classic <a href="https://en.wikipedia.org/wiki/Unix_Philosophy">Unix Principles</a>. Furthermore, in choosing a separate password manager, I'm trusting the security of my passwords to a program <em>dedicated</em> to security, rather than one in which security is not the main goal such as a Browser.</p>
+<p>However, Browser-based password managers still shine in one special case: when you can't install additional software in the computer you're using. A good example is your work's PC; you probably can't just go and install a password manager in it by yourself. However, you very likely have one or more web browsers available, and can use their password manager feature to store your passwords.</p>
+<h3 id="proprietary">Open Source vs Proprietary</h3>
+
+<p>The final distinction I want to make may sound subtle, yet is quite crucial since we're dealing with software in the area of security: <strong>licencing</strong>. </p>
+<p>Most password managers, like KeePassXC and PasswordSafe, are released under Free and Open Source Licenses, and available at no cost. Others are also available free of cost, but are Proprietary in license. While the cost variable is unchanged here, availability of the source code is the big difference between the two. This <em>is</em> a big deal here, because having the source code is the <em>only</em> way that anybody can inspect the software and attest that it is secure for usage or not.</p>
+<p>Free and Open Source software grants you this possibility because source code is freely distributable by definition. That's not the case with proprietary software where the source code is treated as a secret. In the latter, no independent party can audit the software completely, which inevitably results in a higher possibility of bugs and security complications.</p>
+<p>For this very reason, I <em>cannot</em> recommend any form of proprietary Password Managers, like LastPass or 1Password. You simply cannot trust them completely in their security claims due to their licensing model. I advise you to <em>always</em> use an Open Source one.</p>
+<h2 id="how_use">How to use a password manager</h2>
+
+<p>Now that the workings and different types of Password Managers are explained, I'm going to show you how to use one, step by step. </p>
+<p>I'm choosing <a href="https://keepassxc.org/">KeePassXC</a>, an open source local-based solution for this. Not only KeePassXC is my favorite password manager, it's also considered something of a Gold Standard of Password Managers and the security community. Naturally, it's what I would recommend you to try as well.</p>
+<p>Once you download and install KeePassXC, open it for the first time. The main window will prompt you to either create a new database (i.e. the password vault) or use one you already have. Since it's your first time, you must create one, which you can do right away:</p>
+<p><img alt="creating your keepassxc database" src="/static/keepass01.png" /></p>
+<p>Add a name and description:</p>
+<p><img alt="Describing a keepassxc database" src="/static/keepass02.png" /></p>
+<p>You can leave these settings on default. They refer to the encryption mode of the database for compatibility.</p>
+<p><img alt="keepassxc database encryption settings" src="/static/keepass03.png" /></p>
+<p>Now choose a "master password;" the key that will unlock your vault. This is the only password you'll ever need to remember after you store the others inside it.</p>
+<p><img alt="keepassxc database key settings" src="/static/keepass04.png" /></p>
+<p>Now choose where you want to save your password database file. <strong>You should remember to back up this file afterwards, as all your passwords will be stored in it.</strong></p>
+<p><img alt="keepassxc database file saving" src="/static/keepass05.png" /></p>
+<p>The Password Vault is created. You can now add your first password to the vault. To do this, click the <code>+</code> symbol:</p>
+<p><img alt="keepassxc new entry" src="/static/keepass06.png" /></p>
+<p>Add your username and other metadata to the entry. As for the password you can either type it in if it's pre-existing (not very secure) or let KeePass generate a random, very strong one for you (recommended). To do that, click the dice button. Afterwards, click <code>Done</code>.</p>
+<p><img alt="keepassxc new entry" src="/static/keepass07.png" /></p>
+<p>You now have saved your entry and can access that password by simply copying it from the application and pasting it on the website you need. For that, either right-click your entry and choose from the menu, or use the <code>Ctrl+B</code> and <code>Ctrl+C</code> keyboard shortcuts.</p>
+<p><img alt="keepassxc entry usage" src="/static/keepass08.png" /></p>
+<h2 id="what_else">What else can your password manager do for you?</h2>
+
+<p>By now I'm sure I've made your mind about how Password Managers are important for your online security, and also how awesomely easy they are to use. However, it would be unfair to cut the article here without mentioning the extra mile it can go for you in its advanced usage.</p>
+<p>In short, besides storing username-password credential pairs, your password manager can also store other important security information (known as <em>secrets</em>) related to your accounts, such as:</p>
+<h3>Other metadata relating to your credentials</h3>
+<p>Let's say your account provider adds an extra layer of soft authentication, such as the classic, yet extremely insecure "security questions." If you want to provide a secret (random) value to these without having to memorize them, your Password Manager can store that for you. Just add an <em>Attribute</em>, under the "Advanced" tab:</p>
+<p><img alt="keepassxc adding metadata" src="/static/keepass09.png" /></p>
+<p>You can store as many of these attributes as you need, and they do not need to be strictly secrets either. Examples of things you can store among your credentials in your password vault include: MFA backup codes, random answers to security questions and SSH or PGP keys .</p>
+<p>But please, oh please, do not actually use your <em>actual</em> information as the answer to your security questions...</p>
+<h3>Store MFA secrets, like an "authenticator" token</h3>
+<p>You know those "authenticator" apps or "security tokens" issued by banks that generate a 6 or 8-digit one-use code for securely logging into their web services? Guess what - KeePassXC can do the same thing.</p>
+<p>This is because the way those apps or tokens generate those numbers is no magic; rather, it's a <a href="https://en.wikipedia.org/wiki/Time-based_one-time_password">well-known cryptographic function</a> that issues a code depending on the current time. The security of that code (which is plainly-readable) lies in the fact that the <em>secret seed value</em> used in the generation is kept a secret, and that the code is ephemeral, not lasting more than 60 seconds at max.</p>
+<p>What KeePassXC can do is store that seed value alongside your credentials, and generate the one-time code on the spot, which you can then copy and paste into the authentication form. This is an excellent form of backing them up as well, in the event you lose or change authentication options.</p>
+<h3>Store PassKeys</h3>
+<p>Finally, the current next frontier of authentication is <a href="https://passkey.org/">Passkeys</a>. These leverage the strength of public-key cryptography to generate an authentication method that, in the best promises, would allow you to log into somewhere securely without using a password, and maybe even without giving a username at all.</p>
+<p>While the standards for PassKeys are still young and evolving, the KeePass team already provide support for it. Much like MFA secrets storage, you can import PassKeys to your password with KeePassXC.</p>
+<h2>Conclusion</h2>
+<p>As we saw in this article, Password Managers are an integral part of digital security and you should integrate one in your online workflow as early as possible. </p>
+<p>Using a password manager to store securely passwords and other credentials is not necessarily difficult, only slightly different than what most people are used to doing. Instead of storing weak passwords in your memory, let the Password Manager generating them securely, and copy and paste them from it. You'll never forget a password this way and, if done correctly, never have your passwords cracked either.</p>
+<p>Password Managers come in several models and types, which may suit you better than others. You should try a few out before deciding on one. Keep in mind their limitations as well as their strengths during your choice. Just avoid using the ones that aren't Open Source.</p>
+<p>Finally, your password manager can do a little more for your security than just storing passwords. You can store MFA Secrets, PassKeys and other metadata that helps secure your online accounts. Just be sure to back the password vault up routinely to ensure you'll never lose a password!</p>
+<hr />
+<p>I hope I convinced you to start using a password manager right this moment, and answered any questions you had about them. As I wrote, it's not more difficult to use them, just a little different. With time and practice, I'm sure you'll be used to them and never again have to worry about your passwords. But as usual, <a href="/contact">let me know</a> if you have any questions as to Password Managers, and I'll update this article to match them!</p>
+<hr />
+<p>Essay originally published February 24, 2025.</p>
+<p><em>Opinions are my own and do not necessarily reflect those of my current or former employers</em></p>
+        </section>
+        <footer>
+            <p>
+                Copyright 2021-2025 Vitor Sonoki &mdash; All rights reserved.
+            </p>
+            <p>
+                All content in this page is licensed under the <a href="https://creativecommons.org/licenses/by-sa/4.0/">Creative Commons Attribution Share-Alike 4.0 License</a> and may be reproduced as long as you attribute it to me.
+            </p>
+            <p>
+                <a href="/privacy">Privacy Policy</a>
+            </p>
+        </footer>
+    </body>
+</html>
