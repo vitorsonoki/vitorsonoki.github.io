@@ -142,9 +142,23 @@ strong {
 /* Tables, jimmy! */
 body table {
     width: 95%;
+    background: #FFF7EB;
+    border: 1px solid black;
+    margin: auto;
 }
 
-table td {
+table thead {
+    font-weight: bold;
+    text-align: center;
+    background: #604722;
+    color: #fff
+}
+
+table thead td {
+    padding: 1em;
+}
+
+table td, table th {
     border: 1px solid black;
 }
 

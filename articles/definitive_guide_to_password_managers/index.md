@@ -91,14 +91,16 @@ Others, however, run locally in your computer and their vault is a file stored l
 
 Both of these solutions can be great for you depending on your workflow, and they both accomplish their goals of safeguarding your credentials. There are different pros and cons to either cloud-based or local password managers, however, so you should check them and see what fits better your working model:
 
-<table>
-    <tr style="font-weight: bold">
+<table cellspacing="0">
+    <thead>
+    <tr>
         <td>Type</td>
         <td>Pros</td>
         <td>Cons</td>
     </tr>
+    </thead>
     <tr>
-        <td>Cloud-based</td>
+        <th>Cloud-based</th>
         <td>
             <ul>
                 <li>No extra software required (in case of website-based solution).</li>
@@ -116,7 +118,7 @@ Both of these solutions can be great for you depending on your workflow, and the
         </td>
     </tr>
     <tr>
-        <td>Local program</td>
+        <th>Local program</th>
         <td>
             <ul>
                 <li>Your credentials never leave your computer. You have full control over them.</li>
