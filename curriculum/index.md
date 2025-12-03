@@ -6,7 +6,7 @@ See also [praise and recommendation for Vitor Sonoki](/curriculum/praise).
 
 ## Current employment
 
- - Linux and Open Source technology deployment consultant (independent)
+ - [**Aichi-Nagoya 2026 Asian Games Organizing Committee**](/curriculum/ainagoc2026/): Technology Manager of the Non-competition Cluster
 
 ## Past employment
 
