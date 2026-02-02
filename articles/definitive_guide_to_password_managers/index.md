@@ -32,7 +32,7 @@ Now even though the password manager can store a lot of different types of infor
 
 The main purpose of a Password Manager is to securely store and manage access credentials. These, in the online world, mean a pair of identifiers: username and password. In order to be considered secure, passwords must have a few qualities to them. For example:
 
- - Resistant against guessing or "cracking" (the high-speed guessing of millions of passwords per minute done by hackers' through special computers).
+ - Resistant against guessing or "cracking" (the high-speed guessing of millions of passwords per minute done by hackers through special computers).
  - The longer, the better.
  - Uniquely associated to a single use (no same password for two different accounts).
  - Not recorded anywhere in the clear (no writing down passwords in your agenda, notebook, scrap of paper, text file on your computer, etc)
